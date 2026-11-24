@@ -1,0 +1,1 @@
+Place your podcast here as november-edition.mp3. The player will use that exact filename.
